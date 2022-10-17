@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vishnu-organics-website",
+  "private_key_id": "3ada36eeb3c860aeb8ce00eecc4832f3488f45b6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCf8RKtrCmt++1i\nc1iXwpXvCly8QoVHuuZ4FA2XGPtDoZ4l6ffni42pWPRZhlqhEti6Huwu/qYRtGpk\nEoPZv7KWQa8JF4y2hG49oNNqMZeF5fo4nZKl9qykzAMzasCsVrshBE6veaDT5HtK\nEei/vQwZBMDkpnXARI8XuGol2D5f5mRUGug68CLWPc+5yMp5Ayg5w2OAx3unANVf\nVVLCILluElB0mVacOMWx0RGaMZzKVG/ytzUj5l4RoALEQKtmpGF6AMzNJD8YR8E8\nxZUt2I4qdNriokaG3W7MSh/jQbCbcx+1hGHarGZKafajtnqjyXfV9+FkpWXcZkuD\nrPeQiqLJAgMBAAECggEALEDSbzUkbxw2aTgK+ip/u5z9XaV2JQukevLpc7YYx3Sv\nQkRDMFCfiIyxRxfyeYCycITfynzwzBNEIJ4y1wvASOyxlm1qpJFtwyV9eXNxPj4M\nhp+qlLr0t8Au3ooZ91Uj/5Wmg8y+YAJmzm64HF0dPMrg6CLaj7EoemKvE/uJ/pRa\n88ZBmSDhBqFvxxfKoJfYimnC1cyTczjmBdXSLsZ6K/gQOSX5hZXd3z+zRghdm0OQ\nSylrhPOeyJpLK5bh1F508Vnm0kkmOxfFLkfl4o8o+uMJ4R+7YAy1Q2oWGhTGzNHD\n/rwax+AOtSJQVDXO5EscHQGoDC3WkKOaveNR2Bpe1QKBgQDgy/vZdXZeqpHmUSC0\nbwK17Gc5wOnws4R4YTF102ZLRlYSNZcisdlbI/4AB+kKpjGFJW5tETsv6scJh/3m\ndnGn1rNx8uvSk0M+3vctGH0+w2DNUxE39KkwqWInV59RAdjR0DEYMId9HI2/K2Hw\n2uFkEY5kRgviDCjwbI4VW7IU0wKBgQC2JICfDQv0fS6J+njvrN+T/3s7q9rCDmAf\nvShWkGIRKxsu8HfICF4nPPoulmWaNSyfWHZxfyYQ94XzCg6KjqOtmRjcsTG16kkM\nPb5PUGzkuiI7C+FaPwUrUMGTtoa0OnuAaq6CqK2e1N/v8PrcHnYG6xWSNskGd8nh\nTWOVy1qYcwKBgQC14hXaMwIdQmFeOtH9a7yDuc0jm4UtLfLG+8zrCqq/yR8nCJlK\nhx/YcFy5Za0W4rU6h7i7IrAC6zEz8wZqC/eV10/FqMlJzcEhA4J2yFO+DpMqTkWm\nQp0KNGKodmr/PkFSMeMnMUzO2+WMgety14Z6UwIk+8/ti+0r6oljmpeR5QKBgQCv\nhb+ZBiaWJagaeQ/fz9TotxNXboXx6Y6CJ3Pe72ZBqyuX8U1Mq5un7mAdUvt4PnPQ\n3pvNRb02LoGbsv5OUaSznsxRqEQCTVK1hC6IGjXFuQVRp2Iz6HUfx8Ozh/qJZa4s\nEyI2cTxWykc+3xev1X7hrdtsunTAUeFux3gHGx8jtwKBgQCGeP5ekn/z5qXMXqbV\nGtvkBNF8zpzuWiZ/578yVcFBPBtWWWVMmIBfbWcDZahi6IQQKp+s/vnsfgUgIndM\nTauHwDy2dvHMvBXKLqhziGQzW4lFGFmjk6fXJcjwu0VigwK8UG+hsb87mi+UepeD\nCHyzSc6q37LgXxfRtuPxBRWnkg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-dpd0t@vishnu-organics-website.iam.gserviceaccount.com",
+  "client_id": "116358800892740693823",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-dpd0t%40vishnu-organics-website.iam.gserviceaccount.com"
+}

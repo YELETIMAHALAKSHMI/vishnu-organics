@@ -123,21 +123,7 @@ app.get("/cartnav", (req,res) => {
 app.get("/cartsubmit",(req, res)=>{
 	res.render("contact");
 });
-/*
-app.get("addToOrders",(req,res)=>{
-	const val = req.query.item;
-	var cost = req.query.cost;
-	cost.push(cost);
-	res.render("products");
-})
-app.get("/order",(req,res)=>{
-		db.collection("Orders").add({
-			Product : item,
-			Cost : cost,
-		}).then(()=>{
-			res.render("order",{product : product, cost : cost});
-		});
-});*/
+
 app.get("/ordersubmit",(req,res)=>{
 	res.render("contact");
 });
